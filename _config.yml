@@ -1,4 +1,19 @@
-analytics: {}
+name: sd
+favicon: null
+layout_spectrum: 0.519736
+typography_spectrum: 0.216282
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#C8C0A8'
@@ -6,13 +21,8 @@ color:
     - '#5090A0'
     - '#D85858'
     - '#B8D8E0'
-  brandStrength: 0.659539
-  lightness: 0.499177
-  rhythmicContrast: 0.699835
-  saturation: 0.509868
-cta: {}
-layout_spectrum: 0.519736
-name: sd
-opengraph: {}
+  brandStrength: 0.25
+  lightness: 0.75
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
-typography_spectrum: 0.216282
