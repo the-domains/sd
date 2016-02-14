@@ -1,28 +1,18 @@
-name: sd
-favicon: null
-layout_spectrum: 0.6118608366232365
-typography_spectrum: 0.5411884982604533
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.21618524403311312
-  lightness: 0.24841986666433513
-  saturation: 0.3126047421246767
-  rhythmicContrast: 0.05471054930239916
+    - '#C8C0A8'
+    - '#6B1919'
+    - '#5090A0'
+    - '#D85858'
+    - '#B8D8E0'
+  brandStrength: 0.659539
+  lightness: 0.499177
+  rhythmicContrast: 0.699835
+  saturation: 0.509868
+cta: {}
+layout_spectrum: 0.519736
+name: sd
+opengraph: {}
 purpose: []
+typography_spectrum: 0.216282
