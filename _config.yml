@@ -1,7 +1,7 @@
-name: sd
+name: Sjoerd Dijkstra
 favicon: null
-layout_spectrum: 0.519736
-typography_spectrum: 0.216282
+layout_spectrum: 0.61594
+typography_spectrum: 0.42976
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#5090A0'
     - '#D85858'
     - '#B8D8E0'
-  brandStrength: 0.25
+  brandStrength: 0.125
   lightness: 0.75
-  saturation: 0.375
-  rhythmicContrast: 0.25
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
