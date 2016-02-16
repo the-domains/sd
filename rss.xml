@@ -4,7 +4,7 @@
         <description><![CDATA[Sjoerd Dijkstra]]></description>
         <link>https://thegrid.ai/sd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 12:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 12:29:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Geometric Illustrations of Cities and Landscapes]]></title>
@@ -33,13 +33,6 @@
             <link>http://www.webdesignerdepot.com/2016/02/whats-new-for-designers-february-2016/</link>
             <guid isPermaLink="false">9d968f04-4ad0-4f38-850d-7b61b0bbe5a3</guid>
             <pubDate>Mon, 15 Feb 2016 13:17:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blijven Testen]]></title>
-            <description><![CDATA[<article><h1>Blijven Testen</h1><p>Even een testje om te kijken of dit allemaal wel werkt vanaf een mobieltje...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b3ff3e5b1d5b8004e5b86971d5dc5adb00c9f41.jpg"></article>]]></description>
-            <link>https://thegrid.ai/sd/blijven-testen/index.html</link>
-            <guid isPermaLink="false">e9bdabef-c839-427f-9cf8-a1c913c5fbca</guid>
-            <pubDate>Sun, 14 Feb 2016 21:20:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
