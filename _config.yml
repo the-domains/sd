@@ -1,7 +1,7 @@
 name: Sjoerd Dijkstra
 favicon: null
-layout_spectrum: 0.61594
-typography_spectrum: 0.42976
+layout_spectrum: 0.81765
+typography_spectrum: 0.41909
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#C8C0A8'
-    - '#6B1919'
-    - '#5090A0'
-    - '#D85858'
-    - '#B8D8E0'
-  brandStrength: 0.125
-  lightness: 0.75
-  saturation: 0.625
+    - '#271418'
+    - '#d0dcd2'
+    - '#d9532f'
+    - '#378085'
+    - '#9b9294'
+  brandStrength: 0.25
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
